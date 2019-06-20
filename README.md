@@ -1,4 +1,4 @@
-# StockPrediction_Python_UCD_BA
+# Stock Prediction Using Python
 
 Introduction
 
